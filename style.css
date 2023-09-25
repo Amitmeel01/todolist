@@ -1,0 +1,31 @@
+li{
+    font-weight: bold;
+    text-transform: uppercase;
+    list-style-type: decimal;
+    margin-top: 5px;
+}
+h1{
+    text-align: center;
+}
+.in{
+    margin-left: 15px;
+
+}
+.input input{
+    width: 20rem;
+    height: 2rem;
+}
+.bg{
+    background-color: lightblue;
+    width: 500px;
+    height: 600px;
+    border: 2px solid black;
+    
+    margin-left: 150px;
+}
+.delete{
+    background: lightblue;
+    border: 1.5px solid black;
+    margin-left: 105px;
+    
+}
